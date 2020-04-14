@@ -1,9 +1,9 @@
 # Site settings
 title_left    : "Rohil's"
-title_right   : " Blog" # default: ""
+title_right   : "Blog" # default: ""
 description   : "Rohil's Blog"
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : rohilsheth.com # site url
+url           : https://rohilsheth.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
