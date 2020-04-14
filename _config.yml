@@ -2,15 +2,15 @@
 title_left    : "Rohil's"
 title_right   : " Blog" # default: ""
 description   : "Personal Blog"
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+keywords      : "rohil, sheth, upenn, blog"
 url           : https://rohilsheth.com # site url
 baseurl       : "/blog" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
-google_analytics  : UA-XXXXX-XX
+google_analytics  : UA-143677757-1
 twitter_username  : ""
-comments_enabled  : false # if enabled (set to true), please provide your disqus_username
-disqus_shortname  : ""
+comments_enabled  : true # if enabled (set to true), please provide your disqus_username
+disqus_shortname  : "rohilsheth"
 postshare_enabled : false
 
 # Build settings
