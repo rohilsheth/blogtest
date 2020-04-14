@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Rohil"
-title_right   : "space" # default: ""
+title_left    : "Rohil's"
+title_right   : " Blog" # default: ""
 description   : "Minimalist Jekyll theme for technical writing blog."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://heiswayi.github.io/thinkspace # site url
